@@ -1,4 +1,4 @@
-import {useContext} from 'react'
+import  React from 'react'
 import './App.css'
 
 import MyProvider from './context/MyProvider';
